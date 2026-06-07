@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Data point matrix plotting coordinate correlations.
+  name: scatter-plot-visualizer version: 1.0 type: Repository author: VarshuAi description: >   Data point matrix plotting coordinate correlations. primary_tech: CSS
 primary_tech: CSS
 ```
 
